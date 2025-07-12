@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "useDefineForClassFields": true,
+      "module": "ESNext",
+      "moduleResolution": "Bundler",
+      "strict": true,
+      "baseUrl": ".", // 👈 E RËNDËSISHME
+      "paths": {
+        "@/*": ["src/*"] // 👈 E RËNDËSISHME
+      },
+      "jsx": "react-jsx"
+    },
+    "include": ["src"]
+  }
+  
