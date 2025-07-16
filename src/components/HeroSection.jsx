@@ -1,4 +1,4 @@
-import image from '../img/Blerona-Abdushi.jpg'
+import image from '../img/profile-blerona-abdushi.png'
 import { Button } from "@/components/ui/button"
 
 const HeroSection = () => {
