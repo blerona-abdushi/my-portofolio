@@ -34,7 +34,7 @@ const projects = [
     image: onlineMenu,
     description:
       "Digital restaurant menu with QR code integration and real-time updates. Created with React, Express, and PostgreSQL.",
-    link: "https://onlinemenu.vercel.app",
+    link: " https://online-menu-snowy.vercel.app",
   },
   {
     title: "Car Dealership",
