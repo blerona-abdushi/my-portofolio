@@ -4,6 +4,7 @@ import GreenLand from "../img/GreenLand.png"
 import onlineMenu from "../img/onlineMenu.png"
 import Restaurantista from "../img/Restuarantista.png"
 import Peetshop from '../img/Peetshop.png'
+import workForce from '../img/workforcw.png'
 
 
 import {
@@ -23,12 +24,13 @@ const projects = [
     link: "https://restaurant-bice-five.vercel.app",
   },
   {
-    title: "GreenLand",
-    image: GreenLand,
+    title: "WorkForce-Pro",
+    image:workForce ,
     description:
-      "Eco-friendly e-commerce platform focused on natural products. Built with full responsive design and optimized UI/UX.",
-    link: "https://green-land.onrender.com",
+"Employee and department management platform built with React, Node.js, Express, and PostgreSQL. Features authentication, dashboard, and full CRUD operations.",
+    link: "https://workforce-pro-phi.vercel.app",
   },
+ 
   {
     title: "Online Menu",
     image: onlineMenu,
@@ -43,6 +45,13 @@ const projects = [
       "A clean and elegant interface for car listings with filtering and contact features. Built with HTML, CSS, and JavaScript.",
     link: "https://car-dealership-git-main-blerona-abdushis-projects.vercel.app",
 
+  },
+  {
+    title: "GreenLand",
+    image: GreenLand,
+    description:
+      "Eco-friendly e-commerce platform focused on natural products. Built with full responsive design and optimized UI/UX.",
+    link: "https://green-land.onrender.com",
   },
   {
     title: "Peet Shop",
