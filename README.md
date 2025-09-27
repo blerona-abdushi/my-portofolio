@@ -1,16 +1,16 @@
-<<<<<<< HEAD
-# React + Vite
+💼 Portfolio – Blerona Abdushi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portfolio is a personal website built with React.js, showcasing my projects and skills as a web developer. Its focus is to be simple and clear, allowing visitors to explore my projects and get a quick overview of my experience.
 
-Currently, two official plugins are available:
+🔗 [Live Demo](https://my-portofolio-five-zeta.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+✨ Key Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# my-portofolio
->>>>>>> a7d1bf856cdd6f2daeeb76d12939785bf40e0df6
+👩‍💻 Project presentation with details and links to live demos
+
+🎨 Simple and clear design, easy to navigate
+
+🎯 Project Purpose
+
+This project is built to showcase my skills and the projects I have completed, creating a simple and clear experience for visitors and potential employers.
