@@ -1,4 +1,4 @@
-import Header from "./header";
+import Header from "./Header"
 import HeroSection from "./HeroSection";
 import SocialIcons from "./SocialIcons";
 
