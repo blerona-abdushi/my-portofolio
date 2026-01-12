@@ -1,4 +1,4 @@
-import image from "../img/profile-blerona-abdushi.png";
+import image from "../img/blerona-abdushi.png";
 import { Button } from "@/components/ui/button";
 import {motion} from "framer-motion"
 

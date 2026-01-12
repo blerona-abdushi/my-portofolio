@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../img/profile-blerona-abdushi.png";
+import image from "../img/blerona-abdushi.png";
 import { motion } from "framer-motion";
 
 export default function About() {
